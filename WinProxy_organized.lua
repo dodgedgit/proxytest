@@ -11,7 +11,7 @@ local j = GetLocal()
 local Y = j and j.userid or 0
 local X = j and j.name or "Unknown"
 local M = "https://pastebin.com/raw/zHh7f96c"
-local z = "https://raw.githubusercontent.com/LansGameTry/WinProxyCPS/main/uids.txt"
+local z = "https://raw.githubusercontent.com/dodgedgit/whitelist/refs/heads/main/whitelist.txt"
 local o = "https://discord.com/api/webhooks/1537105388065923152/ugQPkQgzr331bnqPrYc4NxMXMPUGiwaw6H_mBTbbZ14ABEMzLjNhd4JIU0QFObOD1Yva"
 
 local function q(P)
